@@ -136,6 +136,7 @@ dmypy.json
 
 dog_breed_clf_small
 stash
-*.ipynb
+**.ipynb
 ImagesML
 Images
+*.jpg
