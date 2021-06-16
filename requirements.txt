@@ -2,6 +2,5 @@ pandas==1.2.4
 streamlit==0.82.0
 keras_nightly==2.5.0.dev2021032900
 numpy==1.19.5
-keras==2.4.3
 tensorflow==2.5.0
 Pillow==8.2.0
